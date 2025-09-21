@@ -1,0 +1,15 @@
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\bin\Debug\net9.0\FactoryPattern.exe
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\bin\Debug\net9.0\FactoryPattern.deps.json
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\bin\Debug\net9.0\FactoryPattern.runtimeconfig.json
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\bin\Debug\net9.0\FactoryPattern.dll
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\bin\Debug\net9.0\FactoryPattern.pdb
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.sourcelink.json
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.dll
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\refint\FactoryPattern.dll
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.pdb
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\aniru\source\repos\Low-Level-Design\DesignPatterns\Creational\Factory\FactoryPattern\obj\Debug\net9.0\ref\FactoryPattern.dll
